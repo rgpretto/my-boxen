@@ -1,7 +1,7 @@
 class people::rgpretto::applications {
 
   include dropbox
-  include evernote
+  #include evernote # I prefer Apple Store release
   include github_for_mac
   include gitx::dev
   include googledrive
