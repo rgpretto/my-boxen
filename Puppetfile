@@ -59,3 +59,28 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "chrome",              "1.1.2"
+github "dropbox",             "1.2.0"
+github "evernote",            "2.0.4"
+github "firefox",             "1.1.8"
+github "github_for_mac",      "1.0.2"
+github "gitx",                "1.2.0"
+github "googledrive",         "1.0.2"
+github "iterm2",              "1.0.4"
+github "keepassx",            "1.0.0"
+github "libreoffice",         "4.1.5"
+github "macvim",              "1.0.0"
+github "notational_velocity", "1.0.0"
+github "skype",               "1.0.8"
+github "spotify",             "1.0.1"
+github "sublime_text_2",      "1.1.2"
+github "textwrangler",        "1.0.2"
+github "virtualbox",          "1.0.11"
+github "vlc",                 "1.1.0"
+
+
+
+
+
+
