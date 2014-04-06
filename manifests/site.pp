@@ -55,8 +55,18 @@ node default {
   # core modules, needed for most things
   include dnsmasq
   include git
-  include hub
-  include nginx
+  #include hub
+  #include nginx
+
+  # common apps
+  # for more inforation see http://bd808.com/blog/2013/10/14/managing-my-laptop-with-boxen/
+  #include adium
+  #include apache
+  include chrome
+  include firefox
+  include homebrew
+  include xquartz
+
 
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
